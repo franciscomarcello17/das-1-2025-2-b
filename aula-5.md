@@ -1,4 +1,4 @@
-# Aula 5 - SOLID
+# Aula 5 (11/08/2025) - SOLID
 
 ## Princípio de Inversão de Dependências: 
 
@@ -13,7 +13,7 @@ Na composição, a relação é mais flexível e pode ser alterada até em tempo
 Além disso, evita herdar comportamentos desnecessários ou incorretos.
 Em resumo: Heranca deve ser usada majoritariamente em casos que necessita-se que duas classe herdadas de uma classe **Pai** jamais se convertam uma com a outra
 
-## Principio de Demeter
+## Princípio de Demeter (menor conhecimento)
 
 Conhecido tambem como principio de menor conhecimento
 
@@ -23,7 +23,7 @@ Todo metodo escrito em um objeto deve invocar apenas as seguintes coisas:
 - objetos criados por ele mesmo
 - variaveis da classe do metodo
 
-## Principio de Aberto/Fechado
+## Open/Closed Principle (Princípio de Aberto/Fechado)
 
 Trata-se de um principio que Bertrand Meyer ainda na década de 80 defendia, que diz que uma classe deve estar fechada para modificacoes e abertas para extensoes.
 
