@@ -1,9 +1,10 @@
-# Aula 25 (13/11/2025) - Implementação com Containers e Filas
-## Resumo de Implementação com Docker e Mensageria
+# Aula 25 (10/11/2025) - Arquitetura de Microsserviços
+## Resumo da Arquitetura de Microsserviços
 
-A implementação prática de microsserviços utiliza:
-- **Containers Docker**: Fornecem isolamento e consistência entre ambientes
-- **Filas de Mensagens**: Permitem comunicação assíncrona e desacoplada entre serviços
-- **Service Mesh**: Padroniza comunicação e observabilidade
+Os microsserviços decompoem o sistema em serviços independentes, cada um executando em seu próprio processo e gerenciando seu banco de dados específico. Características principais:
+- **Isolamento de dados**: Cada serviço possui seu modelo de dados
+- **Comunicação via API**: Serviços se comunicam através de interfaces bem definidas
+- **Independência tecnológica**: Serviços podem usar stacks diferentes
+- **Implantação independente**: Cada serviço pode ser atualizado sem afetar os outros
 
-Esta abordagem facilita o desenvolvimento poliglota, onde diferentes serviços podem ser implementados em linguagens distintas, comunicando-se através de APIs padronizadas e protocolos de mensageria.
+Padrões como Saga gerenciam transações distribuídas, enquanto a camada de API atua como ponto único de entrada, sem conter lógica de negócio.
