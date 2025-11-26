@@ -1,4 +1,4 @@
-# Aula 25 (10/11/2025) - Arquitetura de Microsserviços
+# Aula 24 (10/11/2025) - Arquitetura de Microsserviços
 ## Resumo da Arquitetura de Microsserviços
 
 Os microsserviços decompoem o sistema em serviços independentes, cada um executando em seu próprio processo e gerenciando seu banco de dados específico. Características principais:

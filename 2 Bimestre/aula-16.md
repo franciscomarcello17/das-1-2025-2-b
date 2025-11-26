@@ -1,4 +1,4 @@
-# Aula 17 (06/10/2025) - Definição das Características da Arquitetura
+# Aula 16 (06/10/2025) - Definição das Características da Arquitetura
 ## Resumo do capítulo 4 do livro: Fundamentos da arquitetura de software: uma abordagem de engenharia
 
 Este capítulo introduz o conceito de características da arquitetura, que são aspectos críticos do sistema que vão além dos requisitos funcionais de negócio. Elas especificam critérios operacionais e de design essenciais para o sucesso do software, como desempenho, segurança e confiabilidade, influenciando diretamente as decisões estruturais da aplicação.

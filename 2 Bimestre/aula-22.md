@@ -1,4 +1,4 @@
-# Aula 23 (03/11/2025) - Arquitetura Microkernel
+# Aula 22 (03/11/2025) - Arquitetura Microkernel
 ## Resumo da Arquitetura Microkernel
 
 Também conhecida como arquitetura plugin, este estilo divide a aplicação em:

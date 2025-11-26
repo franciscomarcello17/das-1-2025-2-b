@@ -1,4 +1,4 @@
-# Aula 22 (27/10/2025) - Arquitetura em Pipeline
+# Aula 21 (27/10/2025) - Arquitetura em Pipeline
 ## Resumo da Arquitetura em Pipeline
 
 Inspirada no Unix, esta arquitetura conecta componentes independentes (filtros) através de canais unidirecionais, onde a saída de um filtro é a entrada do próximo. Os tipos de filtros incluem:

@@ -1,4 +1,4 @@
-# Aula 20 (16/10/2025) - Retry Pattern e Arquiteturas Distribuídas
+# Aula 19 (16/10/2025) - Retry Pattern e Arquiteturas Distribuídas
 ## Resumo do Retry Pattern e Falácias da Computação Distribuída
 
 O Retry Pattern gerencia falhas transitórias através de tentativas automáticas de reconexão, utilizando estratégias como:

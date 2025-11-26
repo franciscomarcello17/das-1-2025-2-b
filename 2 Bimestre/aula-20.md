@@ -1,4 +1,4 @@
-# Aula 21 (20/10/2025) - Arquitetura em Camadas
+# Aula 20 (20/10/2025) - Arquitetura em Camadas
 ## Resumo da Arquitetura em Camadas (n-tier)
 
 A arquitetura em camadas organiza o sistema em níveis horizontais especializados, sendo o estilo mais comum pela sua simplicidade e baixo custo. As camadas típicas incluem:
